@@ -4,3 +4,23 @@ body
 	margin-left:30%;
 	margin-right:30%;
 }
+
+/* Tablet CSS */
+@media screen and (max-width: 900px)
+{
+	body
+	{
+		margin-left:15%;
+		margin-right:15%;
+	}
+}
+
+/* Mobile phone CSS */
+@media screen and (max-width: 600px)
+{
+	body
+	{
+		margin-left:5%;
+		margin-right:5%;
+	}
+}
